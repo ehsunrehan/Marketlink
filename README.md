@@ -1371,9 +1371,9 @@ reviewed and tested the changes and can explain how the project works.
 | # | Name | Role | Email | GitHub |
 |:--:|:--|:--|:--|:--|
 | 1 | Alishba Iftikhar | Member | [alishbaiftikhar2504b@aptechgdn.net](mailto:alishbaiftikhar2504b@aptechgdn.net) | [aalishbaifftikhar](https://github.com/aalishbaifftikhar) |
-| 2 | Alishba | Member | [alishba2504b@aptechgdn.net](mailto:alishba2504b@aptechgdn.net) | `YOUR-GITHUB-USERNAME-2` |
+| 2 | Alishba | Member | [alishba2504b@aptechgdn.net](mailto:alishba2504b@aptechgdn.net) | [Rozina-Jawed] (https://github.com/Rozina-Jawed) |
 | 3 | Manal | Member | [manal2504b@aptechgdn.net](mailto:manal2504b@aptechgdn.net) | [Manal-Anis](https://github.com/Manal-Anis) |
-| 4 | Ahsun | Member | [ahsun2504b@aptechgdn.net](mailto:ahsun2504b@aptechgdn.net) | `YOUR-GITHUB-USERNAME-4` |
+| 4 | Ahsun | Member | [ahsun2504b@aptechgdn.net](mailto:ahsun2504b@aptechgdn.net) | [Ahsun Rehan] (https://github.com/ehsunrehan) |
 | 5 | Faiza | Member | [faiza2505d@aptechgdn.net](mailto:faiza2505d@aptechgdn.net) | [faizaqazi2110-pixel](https://github.com/faizaqazi2110-pixel) |
 
 <!-- TODO: https://github.com/Rozina-Jawed still needs to be matched to a member -->
